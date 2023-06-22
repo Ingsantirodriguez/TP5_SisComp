@@ -1,2 +1,5 @@
-# TP5_SisComp
-Trabajo Práctico 5 Sistemas de Computación
+# TP5_SisComp Open Source Syndicate
+**Integrantes**:
+* Armida Abril
+* Ruiz Manuel
+* Rodriguez Santiago
